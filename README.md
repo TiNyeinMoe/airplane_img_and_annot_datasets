@@ -1,1 +1,1 @@
-# airplane_img_and_annot_datasets
+-> You can use this datasets on your object detection ML project.
